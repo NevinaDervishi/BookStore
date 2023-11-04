@@ -1,0 +1,40 @@
+Bill 
+billName=The moon
+ supplier=Nevina
+ billDate=2023-01-30
+ price=78.0
+ quantitySold=56
+
+
+Bill 
+billName=The moon
+ supplier=dfgh
+ billDate=2023-01-30
+ price=67.0
+ quantitySold=6
+
+
+Bill 
+billName=sdfghj
+ supplier=rtyuio
+ billDate=2023-01-31
+ price=59.0
+ quantitySold=4
+
+
+Bill 
+billName=The moon
+ supplier=Nevina
+ billDate=2023-02-18
+ price=29.0
+ quantitySold=2
+
+
+Bill 
+billName=the moon
+ supplier=asdfhjk
+ billDate=2023-02-18
+ price=56.0
+ quantitySold=6
+
+
